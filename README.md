@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Live Demo  
-🔗 **View Live Project:** [Artify on Vercel](https://your-vercel-link-here.vercel.app)
+🔗 **View Live Project:** [Artify on Vercel](https://v0-ai-image-filter-generator.vercel.app/)
 
 ---
 
@@ -37,5 +37,5 @@
 
 ## 🤝 Connect With Me
 👩‍💻 **Developer:** Sandhiya M  
-🌐 **Live Demo:** [Artify on Vercel](https://your-vercel-link-here.vercel.app)  
-💬 **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+🌐 **Live Demo:** [Artify on Vercel](https://v0-ai-image-filter-generator.vercel.app/)  
+💬 **GitHub:** [@YOUR_USERNAME](https://github.com/Sandhiyamrs)
