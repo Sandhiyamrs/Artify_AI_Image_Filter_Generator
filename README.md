@@ -38,4 +38,4 @@
 ## 🤝 Connect With Me
 👩‍💻 **Developer:** Sandhiya M  
 🌐 **Live Demo:** [Artify on Vercel](https://v0-ai-image-filter-generator.vercel.app/)  
-💬 **GitHub:** [@YOUR_USERNAME](https://github.com/Sandhiyamrs)
+💬 **GitHub:** [Sandhiyamrs](https://github.com/Sandhiyamrs)
