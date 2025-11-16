@@ -8,7 +8,7 @@ description: Transform ordinary images into stunning digital art using AI-powere
 
 👉 Website: https://v0-ai-image-filter-generator.vercel.app/
 
-👉 GitHub Repository: Add your repo link here
+👉 GitHub Repository: https://github.com/Sandhiyamrs/Artify_AI_Image_Filter_Generator.git
 
 
 
@@ -27,6 +27,7 @@ With a clean UI and fast processing, users can upload images, apply filters inst
 
 
 ✨ Features
+
 🎨 1. Image Upload
 Upload any JPG/PNG image directly into the app.
 
@@ -57,6 +58,7 @@ Powered by OpenCV + NumPy for fast image processing.
 
 
 🛠️ Tech Stack
+
 🔹 Programming Language
 
 Python 3
@@ -95,8 +97,9 @@ artify/
 
 
 ⚙️ Installation & Setup
+
 # Clone the repository
-git clone https://github.com/your-username/artify-ai-image-filter.git
+git clone https://github.com/Sandhiyamrs/Artify_AI_Image_Filter_Generator.git
 # Navigate into folder
 cd artify-ai-image-filter
 # Install dependencies
@@ -106,6 +109,7 @@ streamlit run app.py
 
 
 💡 How It Works
+
 Upload → Process → Preview → Download
 Filters are applied using OpenCV operations like:
 Edge detection
@@ -116,6 +120,7 @@ Custom kernels
 
 
 🚀 Future Enhancements
+
 Add ML-based style transfer
 Add HDR & Oil Paint filter
 Add image history
@@ -124,12 +129,14 @@ Add mobile responsive support
 
 
 
-👩‍💻 Author
-Sandhiya M
-🐙 GitHub: your profile link
-📧 Email: your email
+👩‍💻 Author : Sandhiya M
+
+🐙 GitHub: https://github.com/Sandhiyamrs
+
+📧 Email: sandhiyamrs2006@gmail.com
 
 
 
 ⭐ Support
+
 If you found this project useful, please ⭐ the repo!
