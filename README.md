@@ -5,7 +5,9 @@ description: Transform ordinary images into stunning digital art using AI-powere
 
 
 🔗 Live Demo
-👉 Website: Add your deployed link here
+
+👉 Website: https://v0-ai-image-filter-generator.vercel.app/
+
 👉 GitHub Repository: Add your repo link here
 
 
@@ -75,6 +77,7 @@ Streamlit Cloud / Vercel (for hosting)
 
 
 📂 Folder Structure
+
 artify/
 │── app.py
 │── requirements.txt
