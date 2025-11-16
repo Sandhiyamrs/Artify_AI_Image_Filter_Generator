@@ -11,11 +11,17 @@ description: Transform ordinary images into stunning digital art using AI-powere
 👉 GitHub Repository: https://github.com/Sandhiyamrs/Artify_AI_Image_Filter_Generator.git
 
 
+## 📸 Project Screenshots
 
-📸 Screenshots
-🏠 Home Page
-🖼️ Preview Page
-⚙️ Settings / Filter Selection Page
+### 🏠 Home Page
+![Home](https://raw.githubusercontent.com/Sandhiyamrs/Artify_AI_Image_Filter_Generator/main/assets/artify%20home.jpg)
+
+### 🎨 Preview Page
+![Preview](https://raw.githubusercontent.com/Sandhiyamrs/Artify_AI_Image_Filter_Generator/8306c66f8c3771f1a1dc5b588bf32d9435da76eb/assets/artify%20preview.jpg)
+
+### ⚙️ Settings Page
+![Settings](https://raw.githubusercontent.com/Sandhiyamrs/Artify_AI_Image_Filter_Generator/8306c66f8c3771f1a1dc5b588bf32d9435da76eb/assets/artify%20settings.jpg)
+
 
 
 
