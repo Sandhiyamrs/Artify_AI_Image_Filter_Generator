@@ -56,24 +56,6 @@ With a clean UI and fast processing, users can upload images, apply filters inst
 
 ---
 
-## 📂 Folder Structure
-
-artify/
-│── app.py
-│── requirements.txt
-│── filters/
-│   ├── cartoon.py
-│   ├── sketch.py
-│   ├── neon.py
-│   ├── sepia.py
-│── assets/
-│   ├── home.png
-│   ├── preview.png
-│   ├── settings.png
-│── README.md
-
----
-
 ## ⚙️ Installation & Setup
 
 -# Clone the repository
