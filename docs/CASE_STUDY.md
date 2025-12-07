@@ -118,13 +118,14 @@ These combine **classic algorithms + ML-inspired visual transformations**.
 *(Add your actual images from the `assets/` folder)*
 
 ### 🏠 Home Page  
-_Image Placeholder_
+### 🏠 Home Page
+![Home](https://raw.githubusercontent.com/Sandhiyamrs/Artify_AI_Image_Filter_Generator/main/assets/artify%20home.jpg)
 
-### 🎨 Preview Page  
-_Image Placeholder_
+### 🎨 Preview Page
+![Preview](https://raw.githubusercontent.com/Sandhiyamrs/Artify_AI_Image_Filter_Generator/8306c66f8c3771f1a1dc5b588bf32d9435da76eb/assets/artify%20preview.jpg)
 
-### ⚙️ Settings Page  
-_Image Placeholder_
+### ⚙️ Settings Page
+![Settings](https://raw.githubusercontent.com/Sandhiyamrs/Artify_AI_Image_Filter_Generator/8306c66f8c3771f1a1dc5b588bf32d9435da76eb/assets/artify%20settings.jpg)
 
 ---
 
