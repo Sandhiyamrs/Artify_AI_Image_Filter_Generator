@@ -1,5 +1,11 @@
 # 🎨 Artify – AI Image Filter Generator
 
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
+![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 ** Artify ** is an interactive Python application that converts normal photos into beautiful digital artwork using AI-powered filters.
 With a clean UI and fast processing, users can upload images, apply filters instantly, and download the final output.
 
@@ -26,85 +32,85 @@ With a clean UI and fast processing, users can upload images, apply filters inst
 ---
 
 ## ✨ Features
--🎨 1. Image Upload : Upload any JPG/PNG image directly into the app.
+- 🎨 1. Image Upload : Upload any JPG/PNG image directly into the app.
 
--🖼️ 2. Multiple AI-Based Filters
--Cartoon Effect
--Pencil Sketch (Color & B/W)
--Neon Glow
--Vintage / Sepia
--Blur / Smooth
--Sharpen
--Grayscale
+- 🖼️ 2. Multiple AI-Based Filters
+  - Cartoon Effect
+  - Pencil Sketch (Color & B/W)
+  - Neon Glow
+  - Vintage / Sepia
+  - Blur / Smooth
+  - Sharpen
+  - Grayscale
 
--⚡ 3. Real-Time Preview : Instant filter effects with zero delay.
-
--💾 4. Download Output : Save filtered images in high-quality format.
-
--📂 5. Modern UI : Built with Streamlit for a smooth user experience.
-
--🔁 6. Reset / Re-Upload : Change the input image without restarting the app.
-
--🧩 7. Optimized Performance : Powered by OpenCV + NumPy for fast image processing.
+- ⚡ 3. Real-Time Preview : Instant filter effects with zero delay.
+- 💾 4. Download Output : Save filtered images in high-quality format.
+- 📂 5. Modern UI : Built with Streamlit for a smooth user experience.
+- 🔁 6. Reset / Re-Upload : Change the input image without restarting the app.
+- 🧩 7. Optimized Performance : Powered by OpenCV + NumPy for fast image processing.
 
 ---
 
 ## 🛠️ Tech Stack
 | prog lang | core lib | Framework | Development Tools |
-|-----------|----------|-------------|----------|
-| python | OpenCV (cv2),NumPy,Pillow (PIL),Matplotlib | Streamlit (UI) | pip,GitHub,Streamlit Cloud / Vercel (for hosting) |
+|-----------|----------|-------------|------------------|
+| Python | OpenCV (cv2), NumPy, Pillow (PIL), Matplotlib | Streamlit (UI) | pip, GitHub, Streamlit Cloud / Vercel |
 
 ---
 
 ## ⚙️ Installation & Setup
 
--# Clone the repository
+```bash
+# Clone the repository
 git clone https://github.com/Sandhiyamrs/Artify_AI_Image_Filter_Generator.git
--# Navigate into folder
+
+# Navigate into folder
 cd artify-ai-image-filter
--# Install dependencies
+
+# Install dependencies
 pip install -r requirements.txt
--# Run the app
+
+# Run the app
 streamlit run app.py
 
 ---
 
 ## 💡 How It Works
 
--Upload → Process → Preview → Download
--Filters are applied using OpenCV operations like:
--Edge detection
--Gaussian blur
--Thresholding
--Color maping
--Custom kernels
+Upload → Process → Preview → Download
+
+Filters are applied using OpenCV operations like:
+
+Edge detection
+
+Gaussian blur
+
+Thresholding
+
+Color mapping
+
+Custom kernels
 
 ---
 
 ## 🚀 Future Enhancements
--Add ML-based style transfer
--Add HDR & Oil Paint filter
--Add image history
--Add dark mode
--Add mobile responsive support
+
+Add ML-based style transfer
+
+Add HDR & Oil Paint filter
+
+Add image history
+
+Add dark mode
+
+Add mobile responsive support
 
 ---
 
 👩‍💻 Author : Sandhiya M
-
 🐙 GitHub: https://github.com/Sandhiyamrs
 
 📧 Email: sandhiyamrs2006@gmail.com
 
----
-
 ⭐ Support
-
 If you found this project useful, please ⭐ the repo!
-
-## 💻 How to Run Locally
-```bash
-git clone https://github.com/<your-username>/Artify_AI_Image_Filter_Generator.git
-cd Artify_AI_Image_Filter_Generator
-npm install
-npm start
